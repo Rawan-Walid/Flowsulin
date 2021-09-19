@@ -1,0 +1,44 @@
+{
+  "food": [
+    {
+      "patterns": [
+        "white bread",
+        "bread"
+      ],
+      "carb_percent": "0.49"
+    }
+  ],
+   "food": [
+    {
+      "patterns": [
+        "rice",
+        "white rice"
+      ],
+      "carb_percent": "0.28"
+    }
+  ],
+   "food": [
+    {
+      "patterns": [
+        "pasta"
+      ],
+      "carb_percent": "0.25"
+    }
+  ],
+   "food": [
+    {
+      "patterns": [
+        "chicken"
+      ],
+      "carb_percent": "0"
+    }
+  ],
+  "food": [
+    {
+      "patterns": [
+        "milk"
+      ],
+      "carb_percent": "0.05"
+    }
+  ]
+}
